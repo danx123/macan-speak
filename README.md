@@ -48,6 +48,6 @@ pyinstaller --noconsole --onefile --name "notes_speech" notes_speech.py
 --onefile: Bundles everything into a single .exe file.
 The output file will be located in the dist/ folder.
 📝 License
-This project is part of the Macan Angkasa ecosystem. Copyright © 2025 Danx Exodus. All Rights Reserved.
+This project is part of the Macan Angkasa ecosystem. Copyright © 2026 - Macan Angkasa. All Rights Reserved.
 
 Disclaimer: This module relies on the Google Web Speech API. An active internet connection is required for transcription to work.
